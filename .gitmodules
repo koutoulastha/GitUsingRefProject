@@ -1,0 +1,3 @@
+[submodule "GitReferenceTest"]
+	path = GitReferenceTest
+	url = https://github.com/koutoulastha/GitReferenceTest
